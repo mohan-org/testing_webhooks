@@ -9,3 +9,7 @@ int sum = a+b
 main (){
  printf("%d",a+b) 
 }
+public static void main( args[])
+{
+ system.out.println("hello this github collecotr
+}
