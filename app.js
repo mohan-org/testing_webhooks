@@ -9,3 +9,5 @@ int sum = a+b
 main (){
  printf("%d",a+b) 
 }
+
+system.out.println("java code")
