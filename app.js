@@ -10,3 +10,4 @@ main (){
  printf("%d",a+b) 
 }
 testingggg
+github collector code added
