@@ -10,3 +10,6 @@ main (){
  printf("%d",a+b) 
 }
 testingggg
+class Demo {
+ test(){}
+}
